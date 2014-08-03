@@ -1,0 +1,1 @@
+snippets_emu.vba: call delete('/home/arodriguez/.vim/plugin/snippetsEmu.vim')|call delete('/home/arodriguez/.vim/doc/snippets_emu.txt')
